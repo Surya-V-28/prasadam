@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">prasadam</string>
+
+    <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="heading_one">Place to visit,Start</string>
+    <string name="heading_two">Make A choice </string>
+    <string name="heading_three">Find Nearby Place</string>
+    <string name="heading_fourth">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="desc_one">Findinfg diffcuilt in searching place to find food and temples nearby, Here is prasadam for you, Hurry Lets start  </string>
+    <string name="desc_two">We provide almost all the numbers of all regional places. You can have mind free throughts and relaxing time .</string>
+    <string name="desc_three">You can find good near holy places within the 2okm range form location,With full discription.</string>
+    <string name="desc_fourth">We will handle everything for you. As you have the app in your pocket then you don\'t have to worry about anything.  </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
